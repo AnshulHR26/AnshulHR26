@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anshul 👋</h1>
-<h3 align="center">Python Developer · FastAPI & Data · Module Lead @ Sequentum</h3>
+<h3 align="center">Python Developer · FastAPI & Data</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anshul-953281210/"><img src="https://img.shields.io/badge/LinkedIn-Anshul-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
