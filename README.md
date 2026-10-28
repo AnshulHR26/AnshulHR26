@@ -33,7 +33,7 @@ What I built:
 | Repository | What it is |
 |---|---|
 | [projects-portfolio](https://github.com/AnshulHR26/projects-portfolio) | All my projects in one place |
-| [dev-notes](https://github.com/AnshulHR26/dev-notes) | Step-by-step guides on Git, Python, FastAPI and PostgreSQL |
+| [dev-notes](https://github.com/AnshulHR26/dev-notes) | Step-by-step guides on Git, Python, FastAPI and PostgreSQL — new: [Git Bash & Git Commands guide](https://github.com/AnshulHR26/dev-notes/blob/main/git/git-bash-commands.md) (basics to branches, stash, SSH, rebase, tags and team workflow) |
 
 ## 🛠️ Tech Stack
 
@@ -44,7 +44,7 @@ What I built:
 | Databases | PostgreSQL, SQLAlchemy |
 | Data | Web scraping, data extraction, Power BI |
 | Auth & Security | JWT, OAuth2, bcrypt |
-| Tools | Git, GitHub, VS Code, pgAdmin, Render, Tailscale |
+| Tools | Git, Git Bash, GitHub, VS Code, pgAdmin, Render, Tailscale |
 
 ## 🌱 Currently Learning
 
