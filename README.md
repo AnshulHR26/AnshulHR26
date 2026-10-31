@@ -28,6 +28,21 @@ What I built:
   <img src="https://raw.githubusercontent.com/AnshulHR26/tasksync/main/docs/screenshots/dark-mode.jpg" width="48%" alt="TaskSync dark mode">
 </p>
 
+### 🏢 [HRMS](https://github.com/AnshulHR26/HRMS) — Human Resource Management System *(in progress)*
+
+**[💻 Code](https://github.com/AnshulHR26/HRMS)** · **[📘 Setup Guide](https://github.com/AnshulHR26/HRMS/blob/main/SETUP.md)**
+
+What I built (Phases 1–4):
+
+- **FastAPI + PostgreSQL backend** (SQLAlchemy 2, Pydantic v2) with **Alembic** migrations
+- **Role-based access for Admin, HR and Employee**, enforced on the backend for every endpoint
+- **Employee management** — auto-generated Employee IDs, search, filters, sorting, pagination, reporting managers
+- **Departments and designations** with reassign-before-delete, plus separate Admin, HR and Employee dashboards
+- **Secure auth** — Argon2id hashing, JWT in httpOnly cookies, CSRF protection, account lockout, sign-out everywhere on password/role change
+- **React 18 + TypeScript (Vite) frontend** and a **pytest** suite running against real PostgreSQL
+
+Next up: attendance, leave approvals and payroll.
+
 ## 📂 More
 
 | Repository | What it is |
@@ -39,11 +54,13 @@ What I built:
 
 | Category | Technologies |
 |---|---|
-| Languages | Python, JavaScript, SQL |
+| Languages | Python, JavaScript, TypeScript, SQL |
+| Frontend | React, Vite, HTML, CSS |
 | Backend | FastAPI, Django, REST APIs, WebSockets |
-| Databases | PostgreSQL, SQLAlchemy |
+| Databases | PostgreSQL, SQLAlchemy, Alembic |
 | Data | Web scraping, data extraction, Power BI |
-| Auth & Security | JWT, OAuth2, bcrypt |
+| Auth & Security | JWT, OAuth2, bcrypt, Argon2, CSRF protection, role-based access |
+| Testing | Pytest |
 | Tools | Git, Git Bash, GitHub, VS Code, pgAdmin, Render, Tailscale |
 
 ## 🌱 Currently Learning
